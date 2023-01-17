@@ -1,0 +1,11 @@
+.home{
+    background-color: antiquewhite;
+   width: 1536px;
+   height: 700px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 100px;
+   font-weight: 900;
+   
+}
